@@ -1,8 +1,5 @@
 # 第一版主最新地址发布页面：
 <div class="input-wrapper">
-<input type="text" placeholder="">
-</div>
-</div>
 </div>
 <div class="navigation-content">
 <div class="line">
@@ -39,5 +36,3 @@
 <div class="navigation-footer">
 <p class="text">2023 01bz</p>
 </div>
-</body>
-</html>
